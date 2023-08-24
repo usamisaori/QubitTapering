@@ -15,9 +15,4 @@
       4. 相似的步骤拆分见tapering_using_sectors.ipynb
 - mytapering_examples.ipynb:
   - 对比使用pennylane和mytapering的qubit tapering效果
-  - 分别考虑四个例子：$H_2$, $LiH$, $H_2O$, $BeH2$
-
-
-
-by.  <img src="https://avatars.githubusercontent.com/u/40348861?v=4" width=80>
-
+  - 分别考虑四个分子例子：H2, LiH, H2O, BeH2
