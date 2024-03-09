@@ -1,7 +1,5 @@
 # QubitTapering
 
-<img src="https://pennylane.ai/_images/qubit_tapering.png">
-
 - tapering_using_sectors.ipynb:
   - qubit tapering 的详细步骤实现，
   - 实现理论依据：https://arxiv.org/pdf/1701.08213.pdf，
@@ -15,4 +13,4 @@
       4. 相似的步骤拆分见tapering_using_sectors.ipynb
 - mytapering_examples.ipynb:
   - 对比使用pennylane和mytapering的qubit tapering效果
-  - 分别考虑四个分子例子：H2, LiH, H2O, BeH2
+  - 分别考虑五个分子例子：H2, LiH, H2O, BeH2, H6
